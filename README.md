@@ -50,43 +50,32 @@
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="42" height="42"/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,html,css,bootstrap,tailwind" alt="Languages & Frameworks" /></a>
 </p>
 
 **Databases**
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42"/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb,redis" alt="Databases" /></a>
 </p>
 
 **Tools & Platforms**
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42"/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,vscode" alt="Tools & Platforms" /></a>
 </p>
 
 **Core Concepts**
+
 <p align="left">
-  <img src="https://img.shields.io/badge/OOP-512BD4?style=for-the-badge&logo=codeforces&logoColor=white" alt="OOP" />
-  <img src="https://img.shields.io/badge/SOLID-0288D1?style=for-the-badge&logo=bookstack&logoColor=white" alt="SOLID" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Design%20Patterns-FF6F00?style=for-the-badge&logo=educative&logoColor=white" alt="Design Patterns" />
-  <img src="https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge&logo=leetcode&logoColor=white" alt="Data Structures" />
-  <img src="https://img.shields.io/badge/Algorithms-FF5722?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/OOP-512BD4?style=for-the-badge&logoColor=white" alt="OOP" />
+  <img src="https://img.shields.io/badge/SOLID-0288D1?style=for-the-badge&logoColor=white" alt="SOLID" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-FF6F00?style=for-the-badge&logoColor=white" alt="Design Patterns" />
+  <img src="https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge&logoColor=white" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/Algorithms-FF5722?style=for-the-badge&logoColor=white" alt="Algorithms" />
 </p>
 
 ---
@@ -125,14 +114,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nihad05&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
-
----
-
-### 🌍 Languages
-
-- 🇦🇿 Azerbaijani — Native
-- 🇬🇧 English — Professional
-- 🇷🇺 Russian — Conversational
 
 ---
 
